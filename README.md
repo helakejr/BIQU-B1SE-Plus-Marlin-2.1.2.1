@@ -11,4 +11,4 @@ Flash BIGTREETECH User Interface
 2. Copy firmware.bin and TFT35 folder to SD Card
 3. Place in machine
 4. Turn on power
-NOTE: Remove TFT35 folder from SD Card because with reload each time power is applied.
+NOTE: Remove TFT35 folder from SD Card because will reload each time power is applied.
