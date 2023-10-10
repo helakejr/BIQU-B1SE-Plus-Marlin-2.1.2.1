@@ -10,6 +10,7 @@ Flash BIGTREETECH User Interface
 1. From: BIQU github https://github.com/bigtreetech/BIQU-B1-SE-PLUS/tree/master/B1-SE-PLUS%20firmware/BTT-mode
 
 or newer version of TFT35 firmware obtained from backing up my BIQU B1 SE Plus printer at:
+https://github.com/helakejr/BIQU-B1SE-Plus-Stock-Firmware_v2.6.0
 
 2. Copy firmware.bin and TFT35 folder to SD Card
 3. Place in machine
